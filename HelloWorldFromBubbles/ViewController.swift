@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  HelloWorldFromBubbles
 //
-//  Created by Douglas Scott on 10/8/16.
+//  Created by Bubbles on 10/8/16.
 //  Copyright © 2016 Bubbles. All rights reserved.
 //
 
